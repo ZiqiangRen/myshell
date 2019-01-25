@@ -1,0 +1,12 @@
+total 124
+-rw-r--r--. 1 ziqiang grads 23107 Sep 14 18:39 EXAMPLE-SESSION.gdb
+-rw-r--r--. 1 ziqiang grads  3576 Sep 14 18:39 help.txt
+-rw-r--r--. 1 ziqiang grads  8941 Sep 14 18:39 hw2
+-rw-r--r--. 1 ziqiang grads  7296 Sep 21 15:30 hw2.c
+-rw-r--r--. 1 ziqiang grads  1148 Sep 21 13:22 -l
+-rw-r--r--. 1 ziqiang grads   616 Sep 14 18:39 Makefile
+-rwxr-xr-x. 1 ziqiang grads 17792 Sep 21 15:30 myshell
+-rw-r--r--. 1 ziqiang grads     0 Sep 21 15:31 outTest
+-rw-r--r--. 1 ziqiang grads  3535 Sep 14 18:39 pipe-example.c
+-rwxr-xr-x. 1 ziqiang grads   126 Sep 14 18:39 test
+-rw-r--r--. 1 ziqiang grads 28743 Sep 14 18:39 vitutor.vi

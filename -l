@@ -1,0 +1,22 @@
+total 172
+-rw-r--r--. 1 ziqiang grads 23107 Sep 14 18:39 EXAMPLE-SESSION.gdb
+-rw-r--r--. 1 ziqiang grads  1049 Sep 21 13:20 f
+-rw-r--r--. 1 ziqiang grads   780 Sep 16 15:53 FILES.txt
+-rw-r--r--. 1 ziqiang grads  3576 Sep 14 18:39 help.txt
+-rw-r--r--. 1 ziqiang grads  8941 Sep 14 18:39 hw2
+-rw-r--r--. 1 ziqiang grads  7256 Sep 21 12:45 hw2.c
+-rw-r--r--. 1 ziqiang grads     0 Sep 21 13:20 l
+-rw-r--r--. 1 ziqiang grads     0 Sep 21 13:22 -l
+-rw-r--r--. 1 ziqiang grads   723 Sep 16 15:47 line
+-rw-r--r--. 1 ziqiang grads 11850 Sep 21 13:19 list.me
+-rw-r--r--. 1 ziqiang grads 11870 Sep 21 13:17 llll
+-rw-r--r--. 1 ziqiang grads   134 Sep 21 12:44 ls.txt
+-rw-r--r--. 1 ziqiang grads   616 Sep 14 18:39 Makefile
+-rw-r--r--. 1 ziqiang grads    18 Sep 16 20:15 mypath
+-rwxr-xr-x. 1 ziqiang grads 17816 Sep 21 13:13 myshell
+-rw-r--r--. 1 ziqiang grads   571 Sep 16 13:51 new
+-rw-r--r--. 1 ziqiang grads  3535 Sep 14 18:39 pipe-example.c
+-rw-r--r--. 1 ziqiang grads  1051 Sep 21 12:49 record
+-rwxr-xr-x. 1 ziqiang grads   126 Sep 14 18:39 test
+-rw-r--r--. 1 ziqiang grads 28743 Sep 14 18:39 vitutor.vi
+-rw-r--r--. 1 ziqiang grads   622 Sep 16 13:52 www
